@@ -3,5 +3,5 @@
 ![GitHub Logo](/images/input.jpg)<br>
 ## Output image:<br>
 ![GitHub Logo](/images/output.jpg)<br>
-_Images download from **Webster University in Tashkent** web page_
+_Images download from [**Webster University in Tashkent**](https://www.webster.edu/images/uzbekistan_studentsuccess__spifsize.jpg) web page_
 
